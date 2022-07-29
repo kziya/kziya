@@ -6,7 +6,7 @@
 <code>📢 [Public talks: 0](TALKS.md)</code>
 <code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
 <code>🧑‍💻 Languages: Javascript, PHP, C#, SQL </code>
-<code>📦 Tech stack: node.js, Express.js, MongoDB, MySql, MS Sql</code>
+<code>📦 Tech stack: node.js, Express.js,Nest.js, MongoDB, MySql, MS Sql</code>
 <code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: [@ziya_04](https://telegram.me/ziya_04)</code>
 <code>📫 [ziyakerimli04@gmail.com](mailto:ziyakerimli04@gmail.com)</code>
