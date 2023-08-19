@@ -10,3 +10,4 @@
 <code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: [@ziya_04](https://telegram.me/ziya_04)</code>
 <code>📫 [ziyakerimli04@gmail.com](mailto:ziyakerimli04@gmail.com)</code>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
